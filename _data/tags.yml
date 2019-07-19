@@ -1,11 +1,8 @@
-tag1:
+projects:
   name: projects
 
-tag2:
-  name: tag2
+cv:
+  name: cv
 
-tag3:
-  name: tag3
-
-tag4:
-  name: tag4
+blog:
+  name: blog
