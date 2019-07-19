@@ -25,6 +25,8 @@ I have been involved extensively with local Google Developers Group, located in 
 
 I have volunteered with GDG, sometimes organising events and even giving out talks when appropriate.
 
+I am also an official co-organizer for GDG Cloud Pune chapter.
+
 Apart from being a tech nerd, I'm also an amature poet, avid music fan, and a serious binge watcher.
 
 I love travelling whenever I get the chance and making new friends especially when they have a starkly different background than me.
